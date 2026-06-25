@@ -20,7 +20,7 @@
         <item name="android:windowBackground">@color/black_royal</item>
     </style>
 
-    <style name="EditText.Terminal">
+    <style name="EditText.Terminal" parent="android:Widget.EditText">
         <item name="android:background">@drawable/bg_edittext_terminal</item>
         <item name="android:textColor">@color/green_terminal</item>
         <item name="android:textColorHint">@color/grey_text</item>
@@ -30,7 +30,7 @@
         <item name="android:fontFamily">monospace</item>
     </style>
 
-    <style name="Button.Terminal">
+    <style name="Button.Terminal" parent="android:Widget.Button">
         <item name="android:background">@drawable/bg_button_terminal</item>
         <item name="android:textColor">@color/black_royal</item>
         <item name="android:textStyle">bold</item>
