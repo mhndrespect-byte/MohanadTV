@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- لوحة ألوان Terminal / Kali Linux Style -->
+    <color name="black_royal">#0A0E0A</color>
+    <color name="black_surface">#121712</color>
+    <color name="black_card">#1A1F1A</color>
+    <color name="green_terminal">#00FF41</color>
+    <color name="green_dim">#00B82E</color>
+    <color name="green_dark">#0D3B17</color>
+    <color name="white_text">#E0F2E0</color>
+    <color name="grey_text">#7A8A7A</color>
+    <color name="red_error">#FF4444</color>
+    <color name="transparent">#00000000</color>
+</resources>

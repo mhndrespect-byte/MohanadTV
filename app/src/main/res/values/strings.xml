@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mohanad TV</string>
+    <string name="hint_m3u_url">رابط M3U / Xtream Codes</string>
+    <string name="hint_search">بحث سريع عن قناة...</string>
+    <string name="btn_load">تحميل القائمة</string>
+    <string name="btn_load_loading">جاري التحميل…</string>
+    <string name="label_categories">الفئات</string>
+    <string name="label_all_channels">جميع القنوات</string>
+    <string name="error_invalid_url">الرابط غير صالح</string>
+    <string name="error_load_failed">فشل تحميل القائمة، تحقق من الاتصال</string>
+    <string name="error_empty_playlist">لا توجد قنوات في هذه القائمة</string>
+    <string name="status_buffering">جاري التخزين المؤقت…</string>
+    <string name="status_low_quality">جودة منخفضة (شبكة ضعيفة)</string>
+    <string name="empty_state">أدخل رابط القائمة بالأعلى وابدأ المشاهدة</string>
+    <string name="saved_playlists">قوائم محفوظة</string>
+</resources>
